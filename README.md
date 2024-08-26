@@ -1,6 +1,3 @@
-Aqui está o README formatado conforme suas instruções, para o projeto `carrossel-de-imagens-em-javascript`:
-
-```markdown
 # Carrossel de Imagens em JavaScript
 
 ## Descrição
